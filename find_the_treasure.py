@@ -54,7 +54,7 @@ def search_treasure():
     
     print(f"Congratulations! You found the treasure in {num_moves} moves.")
 
-# Step One - Create cache file
+# Step One - Create treasure file
 create_treasure_file()
 
 # Step Two - Search for the treasure
